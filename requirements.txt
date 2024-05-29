@@ -1,0 +1,7 @@
+opencv-python
+easyocr
+keras-ocr
+matplotlib
+numpy
+pandas
+img2table
